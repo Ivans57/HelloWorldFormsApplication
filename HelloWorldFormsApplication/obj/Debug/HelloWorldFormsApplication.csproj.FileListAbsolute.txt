@@ -1,0 +1,9 @@
+D:\Business\IT\Coding\projects\DotNet\HelloWorldFormsApplication\HelloWorldFormsApplication\bin\Debug\HelloWorldFormsApplication.exe.config
+D:\Business\IT\Coding\projects\DotNet\HelloWorldFormsApplication\HelloWorldFormsApplication\bin\Debug\HelloWorldFormsApplication.exe
+D:\Business\IT\Coding\projects\DotNet\HelloWorldFormsApplication\HelloWorldFormsApplication\bin\Debug\HelloWorldFormsApplication.pdb
+D:\Business\IT\Coding\projects\DotNet\HelloWorldFormsApplication\HelloWorldFormsApplication\obj\Debug\HelloWorldFormsApplication.csprojResolveAssemblyReference.cache
+D:\Business\IT\Coding\projects\DotNet\HelloWorldFormsApplication\HelloWorldFormsApplication\obj\Debug\HelloWorldFormsApplication.Form1.resources
+D:\Business\IT\Coding\projects\DotNet\HelloWorldFormsApplication\HelloWorldFormsApplication\obj\Debug\HelloWorldFormsApplication.Properties.Resources.resources
+D:\Business\IT\Coding\projects\DotNet\HelloWorldFormsApplication\HelloWorldFormsApplication\obj\Debug\HelloWorldFormsApplication.csproj.GenerateResource.Cache
+D:\Business\IT\Coding\projects\DotNet\HelloWorldFormsApplication\HelloWorldFormsApplication\obj\Debug\HelloWorldFormsApplication.exe
+D:\Business\IT\Coding\projects\DotNet\HelloWorldFormsApplication\HelloWorldFormsApplication\obj\Debug\HelloWorldFormsApplication.pdb
